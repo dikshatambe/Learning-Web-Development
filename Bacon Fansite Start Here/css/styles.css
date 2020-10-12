@@ -1,0 +1,21 @@
+/******** Tag selector *******/
+h1 {
+    color: #EAF6F6;
+    font-size: 200px;
+}
+
+/*
+img {
+    background-color: #EAF6F6;
+}*/
+
+/******** Class selector *******/
+
+.bacon {
+    background-color: blue;
+}
+
+/******** ID selector *******/
+#heading {
+    background-color: blue;
+}
